@@ -1,7 +1,7 @@
 #![allow(non_snake_case)]
 
 use dioxus::prelude::*;
-use tracing::Level;
+use dioxus::document::eval;
 
 // Define Routes
 #[derive(Clone, Routable, Debug, PartialEq)]
@@ -36,8 +36,8 @@ fn Home() -> Element {
         div { 
             style: "display: grid; place-items: center; height: 100vh; font-family: sans-serif;",
             div {
-                h1 { "Dioxus Engine 🚀" }
-                p { "The infrastructure is ready. Start building." }
+                h1 { "Rust + Dioxus + WASM 🦀" }
+                p { "The golden master template is ready." }
             }
         }
     }
