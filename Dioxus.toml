@@ -1,0 +1,10 @@
+[application]
+name = "dioxus-engine"
+default_platform = "web"
+
+[web.app]
+title = "New App"
+
+[web.resource.dev]
+style = ["assets/css/main.css"]
+script = ["assets/js/bridge.js"]

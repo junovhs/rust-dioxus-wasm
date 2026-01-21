@@ -1,0 +1,2 @@
+# Force Cloudflare Pages / Netlify to serve index.html for all routes (SPA Support)
+/* /index.html 200
