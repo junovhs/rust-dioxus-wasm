@@ -32,7 +32,7 @@ Update the name in these two files:
 
 ### 3. Run
 ```bash
-trunk serve
+dx serve
 ```
 Server runs at [http://localhost:8080](http://localhost:8080).
 
