@@ -10,7 +10,7 @@ Use this workflow to start a fresh project without linking back to this template
 ### 1. Setup
 ```bash
 # 1. Clone into your new project folder
-git clone https://github.com/YOUR_USERNAME/rust-dioxus-wasm my-new-app
+git clone https://github.com/junovhs/rust-dioxus-wasm my-new-app
 
 # 2. Enter folder
 cd my-new-app
