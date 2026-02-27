@@ -48,5 +48,5 @@ Server runs at [http://localhost:8080](http://localhost:8080).
 ## 🛠️ Prerequisites
 
 *   [Rust](https://www.rust-lang.org/tools/install)
-*   [Trunk](https://trunkrs.dev/): `cargo install trunk`
+*   [Dioxus CLI](https://dioxuslabs.com/learn/0.5/getting_started): `cargo install dioxus-cli`
 *   WASM Target: `rustup target add wasm32-unknown-unknown`
